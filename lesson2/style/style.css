@@ -1,10 +1,10 @@
-h1,b,i{
+h1,b,i,p,ul{
     color: rgb(255, 255, 255);
     font-family: 'Roboto', sans-serif;
 }
 
  body{
-    background-color: rgb(219, 205, 208);
+    background-color: rgb(0, 0, 0);
 } 
 
 h1{
@@ -23,7 +23,7 @@ p{
 }
 p{
     border-style: solid;
-    border-color: #a28686;
+    border-color: #ffffff;
     border-width: 2px,10px,15px,3px;
 }
 a{
@@ -38,5 +38,5 @@ img{
     padding-left: 600px;
 }
 body{
-    background-image: linear-gradient(rgb(106, 128, 128), rgb(132, 159, 172),rgb(85, 127, 145));
+    background-image: url(../images/fon.gif);
 }
